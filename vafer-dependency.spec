@@ -40,7 +40,7 @@
 Summary:        Analyse and modify class dependencies
 Name:           vafer-dependency
 Version:        0.4
-Release:        %mkrel 2.0.1
+Release:        %mkrel 2.0.2
 Epoch:          0
 License:        Apache Software License 2.0
 URL:            http://vafer.org/projects/dependency/
