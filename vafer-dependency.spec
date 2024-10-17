@@ -43,7 +43,7 @@ Version:        0.4
 Release:        %mkrel 2.0.2
 Epoch:          0
 License:        Apache Software License 2.0
-URL:            http://vafer.org/projects/dependency/
+URL:            https://vafer.org/projects/dependency/
 Group:          Development/Java
 Source0:        vafer-dependency-0.4.tar.gz
 # svn export http://vafer.org/svn/projects/dependency/ vafer-dependency-0.4/
